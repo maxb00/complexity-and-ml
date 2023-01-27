@@ -1,0 +1,16 @@
+name: aca-dist
+channels:
+  - defaults
+dependencies:
+  - gensim
+  - pytorch
+  - numpy
+  - networkx
+  - scikit-learn
+  - matplotlib
+  - transformers
+  - keras
+  - tensorflow
+  - sentencepiece
+  - inflect
+prefix: /home/mbarlow6/.conda/envs/aca
